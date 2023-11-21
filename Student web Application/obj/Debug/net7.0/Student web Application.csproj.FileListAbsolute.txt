@@ -1,0 +1,36 @@
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.staticwebassets.runtime.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.exe
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.deps.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.runtimeconfig.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\Student web Application.pdb
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.AssemblyInfo.cs
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets\msbuild.Student web Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets\msbuild.build.Student web Application.props
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Student web Application.props
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Student web Application.props
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\scopedcss\bundle\Student web Application.styles.css
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\scopedcss\projectbundle\Student web Application.bundle.scp.css
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\refint\Student web Application.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.pdb
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.genruntimeconfig.cache
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\ref\Student web Application.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\admin\source\repos\Student web Application\Student web Application\obj\Debug\net7.0\Student web Application.csproj.CopyComplete

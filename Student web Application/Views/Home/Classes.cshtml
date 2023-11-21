@@ -1,0 +1,10 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model List<Class>
+<h1>Classes</h1>
+
+<ul>
+    @foreach (var classes in Model)
+    {
+        <li>@classes.ClassName</li>
+    }
+</ul>

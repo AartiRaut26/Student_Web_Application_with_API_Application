@@ -1,0 +1,11 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model List<Student>
+<h1>Students</h1>
+
+<ul>
+    @foreach (var student in Model)
+    {
+        <li>@student.StudentName</li>
+    }
+</ul>
+

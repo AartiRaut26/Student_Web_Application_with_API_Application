@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpHqTD4emzmJ/dTVD29QRM0ToAn7LCP7/CEURNDu89L9rnAHTQU4k1E9L40ANrLoeW3kYdf1pe2jjDRc0lfk4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\Student web Application\\Student web Application\\Student web Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

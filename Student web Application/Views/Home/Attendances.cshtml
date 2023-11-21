@@ -1,0 +1,12 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model List<Attendance>
+<h1>Attendances</h1>
+
+<ul>
+    @foreach (var attendances in Model)
+    {
+        <li>@attendances.Time</li>
+    }
+</ul>
+
+
